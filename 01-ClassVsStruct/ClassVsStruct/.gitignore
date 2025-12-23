@@ -1,0 +1,36 @@
+# Xcode user data
+xcuserdata/
+
+# User-specific settings
+*.xcuserstate
+
+# Derived data
+DerivedData/
+
+# Build artifacts
+build/
+*.ipa
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Provisioning / signing
+*.cer
+*.mobileprovision
+*.p12
+
